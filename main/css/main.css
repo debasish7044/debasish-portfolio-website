@@ -357,7 +357,6 @@ img {
 #contact-a .text-fields {
   display: grid;
   grid-gap: 1.2rem;
-  margin-bottom: 1.5rem;
   grid-template-areas: 'name email' 'subject phone' 'message message'; }
 #contact-a .name-input {
   grid-area: name; }
@@ -515,7 +514,6 @@ img {
   #contact-a .text-fields {
     display: grid;
     grid-gap: 1.2rem;
-    margin-bottom: 1.5rem;
     grid-template-areas: 'name' 'email' 'subject' 'phone' 'message'; }
 
   #contact-b .contact-info {
